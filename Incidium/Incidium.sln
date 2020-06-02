@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incidium", "Incidium.csproj", "{EF1FF491-5CB2-4BB8-A776-B9E95646C697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1FF491-5CB2-4BB8-A776-B9E95646C697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1FF491-5CB2-4BB8-A776-B9E95646C697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1FF491-5CB2-4BB8-A776-B9E95646C697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1FF491-5CB2-4BB8-A776-B9E95646C697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC72137-54A9-4404-92D6-6865276E0D17}
+	EndGlobalSection
+EndGlobal
