@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.exe
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.deps.json
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.json
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.dll
+C:\Users\pc\source\repos\Vestigium\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.pdb
+C:\Users\pc\source\repos\Vestigium\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Vestigium\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Vestigium\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfo.cs
+C:\Users\pc\source\repos\Vestigium\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.dll
+C:\Users\pc\source\repos\Vestigium\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.pdb
